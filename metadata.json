@@ -1,0 +1,6 @@
+{
+  "name": "PlantX",
+  "description": "Smart plant scanner, health diagnosis, care tracker, and treatment guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
